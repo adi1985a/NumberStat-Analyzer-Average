@@ -22,6 +22,8 @@ _A C++ console application for analyzing a set of five user-input numbers, calcu
 
 **NumberStat Analyzer**, developed by Adrian Lesniak, is a focused C++ console application designed to perform a simple yet insightful statistical analysis on a small dataset of five user-input numbers. The program calculates the arithmetic mean (average) of these numbers and then identifies which of the input numbers is closest to this calculated average. Key results (average and closest number) are saved to `results.txt`, and any operational errors or invalid inputs are logged with timestamps to `program.log`. The application features a user-friendly, interactive interface with robust input validation and a clear display of results, allowing users to retry the analysis with new sets of numbers.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🎯 **Core Analysis (via `NumberAnalyzer` Class)**:
@@ -43,9 +45,16 @@ _A C++ console application for analyzing a set of five user-input numbers, calcu
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
 
-_This section will be updated with screenshots showcasing the input process, the display of the average and closest number, the retry prompt, and examples from `results.txt` and `program.log`._
+_Screenshots showcasing the input process, the display of the average and closest number, the retry prompt, and examples from `results.txt` and `program.log`._
+
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
@@ -140,3 +149,6 @@ For questions, feedback, or issues, please open an issue on the GitHub repositor
 
 ---
 🎯 _Finding clarity in numbers, one average at a time._
+
+
+
