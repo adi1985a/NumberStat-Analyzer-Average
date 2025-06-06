@@ -3,3 +3,15 @@
 	<iostream>
 	<cmath>
 
+1749245660 source:f:\my portafolio it ulepszona\c++\programs\find the number closest to the average\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<limits>
+	<ctime>
+	<iomanip>
+	<string>
+	<thread>
+	<chrono>
+

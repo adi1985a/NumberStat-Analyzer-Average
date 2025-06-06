@@ -1,0 +1,6 @@
+Average: 7.4, Closest number: 7
+Average: 17.60 | Closest: 11.00
+Average: 3.00 | Closest: 3.00
+Average: 3.00 | Closest: 3.00
+Average: 3.00 | Closest: 3.00
+Average: 6.40 | Closest: 6.00
